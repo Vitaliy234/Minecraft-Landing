@@ -3,3 +3,9 @@ body{
   margin: 0;
   
 }
+.navigation {
+    display: flex;
+    padding: 15px;
+    margin: 20px;
+    border: 10px 20px 15;
+}
