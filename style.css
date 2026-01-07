@@ -27,7 +27,7 @@ body {
   max-width: 900px;
 }
 
-/* фон hero з градієнтом */
+/* hero з градієнтом */
 .hero::before {
   content: "";
   position: absolute;
