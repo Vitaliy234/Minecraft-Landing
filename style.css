@@ -10,7 +10,7 @@ body {
   background: #0f2027;
 }
 
-/* головний екран сайту */
+/* HERO */
 .hero {
   min-height: 100vh;
   display: flex;
@@ -112,7 +112,7 @@ section {
   box-shadow: 0 15px 25px rgba(0,0,0,0.4);
 }
 
-/* заклик до дії */
+/* CTA */
 .cta {
   background: linear-gradient(135deg, #ff416c, #ff4b2b);
   color: white;
